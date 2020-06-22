@@ -13,6 +13,6 @@ Create a new environment:
 
 ### Virtualenv
 
-`$ virtualenv venv_{{cookiecutter.project}}``  
-`$ pip install -r requirements.txt``
+`$ virtualenv venv_{{cookiecutter.project}}`
+`$ pip install -r requirements.txt`
 
